@@ -1,0 +1,30 @@
+{
+  "name": "token-treasure",
+  "version": "1.0.0",
+  "description": "Token Creator",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadyAkhtar/token-treasure.git"
+  },
+  "keywords": [
+    "web3",
+    "token",
+    "ERC20",
+    "DApp"
+  ],
+  "author": "Shadab Akhtar",
+  "workspaces": [
+    "contracts",
+    "frontend"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShadyAkhtar/token-treasure/issues"
+  },
+  "homepage": "https://github.com/ShadyAkhtar/token-treasure#readme"
+}
